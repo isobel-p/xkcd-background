@@ -6,8 +6,6 @@ This is a Python program that downloads XKCD images, resizes them to the size of
 ### What is XKCD?
 As told by AI:
 > XKCD is a webcomic created by Randall Munroe that features a blend of humor, science, mathematics, and technology. Launched in 2005, the comic is known for its stick-figure art style and clever commentary on a wide range of topics, including computer programming, relationships, and existential questions. XKCD often incorporates elements of nerd culture and has gained a dedicated following for its insightful and often thought-provoking content. In addition to the comic, Munroe has published books and created projects that further explore themes from the comic, making it a significant part of internet culture.
-### What is High Seas?
-[Come and see!](https://highseas.hackclub.com/shipyard)
 ## Requirements
  - Python
  - requests (```pip install requests```)
